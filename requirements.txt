@@ -1,7 +1,7 @@
 pandas
 numpy
 tensorflow
-sklearn
+scikit-learn
 openai
 matplotlib
 yfinance
