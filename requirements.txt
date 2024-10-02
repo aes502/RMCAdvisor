@@ -1,1 +1,8 @@
-# Python dependencies
+pandas
+numpy
+tensorflow
+sklearn
+openai
+matplotlib
+yfinance
+jupyter
