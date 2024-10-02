@@ -14,7 +14,7 @@ RMC AI Advisor is a financial prediction platform that leverages key market indi
 1. Clone the repository:
    ```bash
    git clone https://github.com/aes502/RMCAdvisor.git
-   cd RMC-AI-Advisor
+   cd RMCAdvisor
    ```
 
 2. Create a virtual environment and install dependencies:
